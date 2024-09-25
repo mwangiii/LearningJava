@@ -1,0 +1,1 @@
+# This dir contains notes from a discussion about selection sort
